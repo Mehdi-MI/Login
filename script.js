@@ -20,7 +20,7 @@ function forgetPassword() {
 }
 
 function logout() {
-  window.location.href = 'main.html';
+  window.location.href = 'index.html';
 }
 
 function changePassword(event) {
